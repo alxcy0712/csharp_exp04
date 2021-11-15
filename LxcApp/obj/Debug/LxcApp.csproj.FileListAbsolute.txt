@@ -1,0 +1,9 @@
+C:\Users\86150\Desktop\csharp\LxcApp\bin\Debug\LxcApp.exe.config
+C:\Users\86150\Desktop\csharp\LxcApp\bin\Debug\LxcApp.exe
+C:\Users\86150\Desktop\csharp\LxcApp\bin\Debug\LxcApp.pdb
+C:\Users\86150\Desktop\csharp\LxcApp\obj\Debug\LxcApp.csprojAssemblyReference.cache
+C:\Users\86150\Desktop\csharp\LxcApp\obj\Debug\LxcApp.Form1.resources
+C:\Users\86150\Desktop\csharp\LxcApp\obj\Debug\LxcApp.Properties.Resources.resources
+C:\Users\86150\Desktop\csharp\LxcApp\obj\Debug\LxcApp.csproj.GenerateResource.cache
+C:\Users\86150\Desktop\csharp\LxcApp\obj\Debug\LxcApp.exe
+C:\Users\86150\Desktop\csharp\LxcApp\obj\Debug\LxcApp.pdb
